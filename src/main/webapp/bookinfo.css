@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+button{
+			border: none;
+			border-radius: 10px;
+			background-color: aqua;
+			padding: 6px;
+		}
+		body{
+			text-align: center;
+			background-color: powderblue;
+						padding: 50px;
+		}
+		footer{
+		font-size: larger;
+	}
+	input{
+		border: none;
+		border-radius: 5px;
+	}
